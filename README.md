@@ -1,4 +1,4 @@
-# Z: b5mjuanmari.github.io
+# b5mjuanmari.github.io
 
 ## web2
 
